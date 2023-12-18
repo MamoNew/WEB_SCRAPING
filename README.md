@@ -1,3 +1,4 @@
+![Scrapy Image](https://raw.githubusercontent.com/MaMo77570/WEB_SCRAPING/main/scrapy.avif)
 # Petlebi.com Web Scraping
 
 ## Overview
