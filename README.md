@@ -1,4 +1,4 @@
-![Scrapy Image]([https://raw.githubusercontent.com/MaMo77570/WEB_SCRAPING/main/scrapy.avif](https://github.com/MaMo77570/WEB_SCRAPING/blob/main/scrapy1.png))
+![Scrapy Image](https://github.com/MaMo77570/WEB_SCRAPING/blob/main/scrapy1.png)
 # Petlebi.com Web Scraping
 
 ## Overview
